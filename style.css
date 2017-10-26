@@ -7,6 +7,11 @@ body {
 
 }
   
+a {
+    color:RGB(255,255,255);
+}
+
+
 p {
 		margin-left: 5px;
 		margin-top: 5px;
@@ -38,7 +43,7 @@ p {
 		background: RGB(150,150,150);
 }
 
-#usermsg {
+#messageText {
 		margin-left: -5px;
 		margin-top: 2px;
 		width:690px;
@@ -47,7 +52,7 @@ p {
 }
 
 
-#enter {
+#sendMessage {
 		margin-left: 3px;
 		margin-top:2px;
 		width: 50px;
